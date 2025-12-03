@@ -1,6 +1,6 @@
 # Triet.py – Rental Revenue Predictor
 
-This Python script predicts rental property revenue using machine learning.
+This Python script predicts rental property revenue using ensemble predictive model.
 
 ## Features
 - Loads and processes property data
